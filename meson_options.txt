@@ -1,0 +1,1 @@
+option('optimize', type: 'boolean', value: false, description: 'Optimize installer files')

@@ -1,2 +1,1 @@
-# glines
-Clone of KLines
+## Lines clone using GTK4
